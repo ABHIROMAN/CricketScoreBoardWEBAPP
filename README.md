@@ -1,4 +1,4 @@
-# CricketScoreBoardWEBAPP
+# Cricket Score Board WEBAPP
 
 Creating a digital cricket score board project using React can be a fun and educational way to explore web development. Below is a description of how you might structure and implement such a project:
 
